@@ -1,0 +1,6 @@
+public class Main{
+    public static void main(String[]args){
+String txt="ishwarya";
+System.out.println("Length of txt: " +txt.length());
+}
+}
