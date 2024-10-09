@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Main{
+    public static void main(String[]args){
+       Scanner a=new Scanner(System.in);
+       System.out.print("Enter the First number: ");
+       int n1=a.nextInt();
+       System.out.print("Enter the Second number: ");
+       int n2=a.nextInt();
+       System.out.print("Enter the Third number: ");
+       int n3=a.nextInt();
+       int average=(n1+n2+n3)/3;
+       System.out.println(average);
+}
+}
