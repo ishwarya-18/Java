@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class Main{
+    public static void main (String[]args){
+Scanner sc=new Scanner(System.in);
+System.out.print("Enter First number: ");
+int a=sc.nextInt();        
+System.out.print("Enter Second number:");
+int b=sc.nextInt();
+int max=Math.max(a,b);
+int min=Math.min(a,b);
+double sqrt=Math.sqrt(a);
+int abs=Math.abs(a);
+double random=Math.random();
+System.out.println("Maximum of two number: "+max);
+System.out.println("Minimum of two number: "+min);
+System.out.println("Square root of First number: "+sqrt);
+System.out.println("Absolute value of First number: "+abs);
+System.out.println("Random number: "+random);
+}
+}
