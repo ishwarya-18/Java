@@ -1,34 +1,23 @@
 # Code Repository
 
-Welcome to my **Code Repository**! This repository contains my code snippets written in **C**, **Java**, and **Python**. Here, you can find solutions to various programming exercises and challenges I've tackled during my learning journey.
+Welcome to my **Java Code Repository**! This repository contains my code snippets and solutions to various programming exercises and challenges I've tackled during my learning journey.
 
 
 ## 📚Contents
 
-1. **C Programming**  
-     - This folder has my C code snippets, including:
-     - Advanced programs
-     - Complex algorithms and data structures
-
-2. **Java Programming**  
+1.  **Java Programming**  
      - This folder contains my Java code examples, including:
      - Basic exercises
      - Fundamental concepts of object-oriented programming
 
-3. **Python Programming**  
-     - This folder has my Python code snippets focusing on:
-     - Intermediate tasks
-     - Data manipulation and basic algorithms
 
 ## 🛠️ **Skills**
 
-- **C Programming**: Advanced level
-- **Java**: Basic level
-- **Python**: Intermediate level
+- **Java**: Intermediate level
 
 ## 📈 **About This Repository**
 
-- This repository is a collection of my code snippets in C, Java, and Python.
+- This repository showcases my Java code snippets.
 - I aim to share my coding solutions and continue improving my skills by adding new snippets over time.
 
 ## 📧 **Contact**
