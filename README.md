@@ -3,6 +3,7 @@
 Welcome to my **Java Code Repository**! This repository contains my code snippets and solutions to various programming exercises and challenges I've tackled during my learning journey.
 
 
+
 ## 📚Contents
 
 1.  **Java Programming**  
@@ -11,14 +12,17 @@ Welcome to my **Java Code Repository**! This repository contains my code snippet
      - Fundamental concepts of object-oriented programming
 
 
+
 ## 🛠️ **Skills**
 
 - **Java**: Intermediate level
+
 
 ## 📈 **About This Repository**
 
 - This repository showcases my Java code snippets.
 - I aim to share my coding solutions and continue improving my skills by adding new snippets over time.
+
 
 ## 📧 **Contact**
 
