@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Main{
+    public static void main(String[]args){
+        Scanner a=new Scanner(System.in);
+        System.out.print("Enter first number: ");
+        int p=a.nextInt();
+        System.out.print("Enter second number: ");
+        int q=a.nextInt();
+        int area=p*q;
+        int perimeter=2*(p+q);
+        System.out.println("Area of rectange:  "+area);
+        System.out.println("Perimeter of rectangle: "+perimeter);
+    }
+}
+
